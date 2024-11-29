@@ -1,0 +1,15 @@
+button[data-type="primary"] {
+  background-color: blue; 
+  color: white; 
+}
+
+button.cta {
+  font-weight: bold;
+}
+
+
+button[data-type="primary"].cta {
+  background-color: darkblue;
+  color: white;
+  font-weight: bold;
+}
